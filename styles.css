@@ -23,6 +23,7 @@ header li a:hover {
 }
 body{
 	background-color: white;
+  text-align:center;
 	margin: 0;
 }
 h1 {
@@ -42,7 +43,7 @@ header {
 	text-align: center;
 	font-family: Poppins;
   background-color: white;
-  height: 200px;
+  height: 373px;
   background-image: url(Images/background.png);
   background-size: 100%;
   font-size: 18px;
