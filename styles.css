@@ -1,30 +1,8 @@
-header ul{
-	  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: black;
 
-}
-header li {
-  float: left;
-}
-
-header li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-header li a:hover {
-  background-color: #333;
-}
 body{
 	background-color: white;
+  text-align: center;
 	margin: 0;
-	font-family: ;
 }
 h1 {
   font-family: Poppins;
@@ -78,7 +56,7 @@ footer {
  @font-face { font-family: Poppins; font-weight: bold; src: url('sf.otf');}
  @font-face { font-family: Sans; src: url('SourceSansPro-ExtraLight.ttf'); } 
  @font-face { font-family: Sans; font-weight: bold; src: url('SourceSansPro-ExtraLight.ttf');}
-}
+
 
 img {
   max-height: 500px;
@@ -130,7 +108,7 @@ img {
 
 /* Caption text */
 .text {
-  color: #black;
+  color: black;
   font-family: Sans;
   font-size: 15px;
   bottom: 8px;
